@@ -1,0 +1,302 @@
+/** app.css 
+/* my custom css
+**/
+
+.wrapper {
+	max-width: 720px;
+	border: 8px solid white;
+	border-radius: 20px;
+	margin: 25px 0px;
+	background-color: #629099;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 15px;
+}
+
+body {
+	background-image: url("../images/img-f14/bkg-tile.gif");
+}
+
+.felt {
+	background-image: url("../images/img-f14/bkg-felt.png")
+}
+.panel h1, .panel h3 {
+	color: white;
+	font-weight: bold;
+}
+
+
+.panel {
+	border-radius: 10px;
+	background-color: #86979a;
+	border: none;
+	min-width: 80%;
+}
+
+.panel h4 {
+	color: white;
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+}
+
+.panel p {
+	color: white;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.panel a {
+	color: #fed200;
+}
+
+.panel a:hover {
+	color: #B0C8CC;
+}
+
+.kgnu-blue {
+	background-color: #629099;
+}
+
+.kgnu-gray {
+	background-color: #86979a;
+}
+
+.rotate {
+	-ms-transform: rotate(-90deg); /* IE 9 */
+	-webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+	transform: rotate(-90deg);
+}
+
+img {
+	border-radius: 12px;
+}
+
+img .centered {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.gift-img {
+	height: 100px;
+	width: 100px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px #000000;
+}
+
+.splash-shadow-bold {
+	font-size: 19px;
+	text-shadow: 1px 1px 1px #000000;
+	font-weight: bold;
+}
+
+.splash-shadow {
+	text-shadow: 1px 1px 1px #000000;
+}
+
+
+/* css for gift image rollovers below */
+
+
+#gift-lucinda {
+	background-image: url('../images/img-f14/gift-lucinda.png');
+}
+
+#gift-lucinda:hover {
+	background-image: url('../images/img-f14/gift-lucinda-over.png');
+}
+
+#country-funk {
+	background-image: url('../images/img-f14/gift-country-funk2.png');
+}
+
+#country-funk:hover {
+	background-image: url('../images/img-f14/gift-country-funk2-over.png');
+}
+
+#hot-rize {
+	background-image: url('../images/img-f14/gift-hot-rize.jpg');
+}
+
+#hot-rize:hover { 
+	background-image: url('../images/img-f14/gift-hot-rize-over.png');
+}
+
+#jerry-douglas { 
+	background-image: url('../images/img-f14/gift-jerry-douglas.png');
+}
+
+#jerry-douglas:hover { 
+	background-image: url('../images/img-f14/gift-jerry-douglas-over.png');
+}
+
+#kenya-special {
+	background-image: url('../images/img-f14/gift-kenya-special.png');
+}
+
+#kenya-special:hover { 
+	background-image: url('../images/img-f14/gift-kenya-special-over.png');
+}
+
+#new-orleans-funk {
+	background-image: url('../images/img-f14/gift-new-orleans-funk.png');
+}
+
+#new-orleans-funk:hover {
+	background-image: url('../images/img-f14/gift-new-orleans-funk-over.png'); 
+}
+
+#quantic-magnetica {
+	background-image: url('../images/img-f14/gift-quantic-magnetica.png');
+}
+
+#quantic-magnetica:hover {
+	background-image: url('../images/img-f14/gift-quantic-magnetica-over.png'); 
+}
+
+#trojan-dub {
+	background-image: url('../images/img-f14/gift-trojan-dub.png');
+}
+
+#trojan-dub:hover {
+	background-image: url('../images/img-f14/gift-trojan-dub-over.png'); 
+}
+
+
+#gift-greensky-oct24-tix {
+	background-image: url('../images/img-f14/gift-greensky-oct24.png');
+}
+#gift-greensky-oct24-tix:hover { 
+	background-image: url('../images/img-f14/gift-greensky-oct24-over.png');
+}
+
+#gift-greensky-oct25-tix {
+	background-image: url('../images/img-f14/gift-greensky-oct25.png');
+}
+#gift-greensky-oct25-tix:hover { 
+	background-image: url('../images/img-f14/gift-greensky-oct25-over.png');
+}
+
+#beats-antique-tix {
+	background-image: url('../images/img-f14/beats-antique-tix.png');
+}
+#beats-antique-tix:hover {
+	background-image: url('../images/img-f14/beats-antique-tix-over.png'); 
+}
+
+#gift-southern-soul {
+	background-image: url('../images/img-f14/gift-southern-soul.png');
+}
+#gift-southern-soul:hover { 
+	background-image: url('../images/img-f14/gift-southern-soul-over.png');
+}
+
+#gift-bahamas {
+	background-image: url('../images/img-f14/gift-bahamas.png');
+}
+#gift-bahamas:hover {
+	background-image: url('../images/img-f14/gift-bahamas-over.png'); 
+}
+
+#gift-jim-jesse {
+	background-image: url('../images/img-f14/gift-jim-jesse.png');
+}
+
+#gift-jim-jesse:hover {
+	background-image: url('../images/img-f14/gift-jim-jesse-over.png'); 
+}
+
+#gift-khun-narin {
+	background-image: url('../images/img-f14/gift-khun-narin.png');
+}
+#gift-khun-narin:hover {
+	background-image: url('../images/img-f14/gift-khun-narin-over.png'); 
+}
+
+#gift-bitter-tears-cash {
+	background-image: url('../images/img-f14/gift-bitter-tears-cash.png');
+}
+
+#gift-bitter-tears-cash:hover {
+	background-image: url('../images/img-f14/gift-bitter-tears-cash-over.png'); 
+}
+
+#gift-sun-ra {
+	background-image: url('../images/img-f14/gift-sun-ra.png');
+}
+#gift-sun-ra:hover {
+	background-image: url('../images/img-f14/gift-sun-ra-over.png'); 
+}
+
+#gift-keb-mo-tix {
+	background-image: url('../images/img-f14/gift-keb-mo-tix.png');
+}
+
+#gift-keb-mo-tix:hover {
+	background-image: url('../images/img-f14/gift-keb-mo-tix-over.png'); 
+}
+
+#gift-s-soul-Nov21 {
+	background-image: url('../images/img-f14/gift-s-soul-Nov21.png');
+}
+#gift-s-soul-Nov21:hover {
+	background-image: url('../images/img-f14/gift-s-soul-Nov21-over.png'); 
+}
+
+#gift-s-soul-Nov22 {
+	background-image: url('../images/img-f14/gift-s-soul-Nov22.png');
+}
+
+#gift-s-soul-Nov22:hover {
+	background-image: url('../images/img-f14/gift-s-soul-Nov22-over.png'); 
+}
+
+/* other gifts */
+
+#gift-roots-branches {
+	background-image: url('../images/img-f14/gift-roots-branches.png');
+}
+#gift-roots-branches:hover { 
+	background-image: url('../images/img-f14/gift-roots-branches-over.png');
+}
+
+#gift-dub-palace {
+	background-image: url('../images/img-f14/gift-dub-palace.png');
+}
+#gift-dub-palace:hover {
+	background-image: url('../images/img-f14/gift-dub-palace-over.png'); 
+}
+
+#gift-radiowaves {
+	background-image: url('../images/img-f14/gift-radiowaves.jpg');
+}
+
+#gift-radiowaves:hover {
+	background-image: url('../images/img-f14/gift-radiowaves-over.gif');
+}
+
+#gift-oggg-shirt {
+	background-image: url('../images/img-f14/gift-oggg-shirt.jpg');
+}
+
+#gift-oggg-shirt:hover {
+	background-image: url('../images/img-f14/gift-oggg-shirt-over.gif');
+}
+
+#gift-reggae-shirt {
+	background-image: url('../images/img-f14/gift-reggae-shirt.jpg');
+}
+
+#gift-reggae-shirt:hover {
+	background-image: url('../images/img-f14/gift-reggae-shirt-over.gif');
+}
+
+#gift-kgnu-mug {
+	background-image: url('../images/img-f14/gift-kgnu-mug.jpg');
+}
+
+#gift-kgnu-mug:hover {
+	background-image: url('../images/img-f14/gift-kgnu-mug-over.gif');
+}
