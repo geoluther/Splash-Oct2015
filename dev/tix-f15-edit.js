@@ -5,8 +5,8 @@ var tix = [
 	{
 		"name": "Israel Vibration",
 		"id": "israelvibe-oct20",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$60",
 		"venue": "Fox Theater",
 		"date": "Oct 15",
@@ -16,8 +16,8 @@ var tix = [
 	{
 		"name": "Israel Vibration",
 		"id": "israelvibe-oct22",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$60",
 		"venue": "Ogden",
 		"date": "Oct 22",
@@ -27,8 +27,8 @@ var tix = [
 	{
 		"name": "Youssou N'Dour",
 		"id": "Youssou",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Boulder Theater",
 		"date": "Nov 11",
@@ -38,8 +38,8 @@ var tix = [
 	{
 		"name": "Travelin' McCourys",
 		"id": "McCourys",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$60",
 		"venue": "Fox Theater",
 		"date": "Nov 5",
@@ -49,8 +49,8 @@ var tix = [
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov19",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 19",
@@ -60,8 +60,8 @@ var tix = [
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov20",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 20",
@@ -71,8 +71,8 @@ var tix = [
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov21",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 21",
@@ -83,8 +83,8 @@ var tix = [
 	{
 		"name": "Bad Plus with Joshua Redman",
 		"id": "josh-redman",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Boulder Theater",
 		"date": "Dec 12",
@@ -95,8 +95,8 @@ var tix = [
 	{
 		"name": "Rebirth Brass Band",
 		"id": "Rebirth",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$88.5",
 		"venue": "Gothic Theater",
 		"date": "Dec 12",
@@ -106,8 +106,8 @@ var tix = [
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-dec31",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$139",
 		"venue": "1st Bank Center",
 		"date": "Dec 31",
@@ -117,8 +117,8 @@ var tix = [
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-jan1",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$139",
 		"venue": "1st Bank Center",
 		"date": "Jan 31",
@@ -128,8 +128,8 @@ var tix = [
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-jan2",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc":,
+		"imgOver":,
 		"amt": "$139",
 		"venue": "1st Bank Center",
 		"date": "Jan 2",
@@ -137,7 +137,7 @@ var tix = [
 	}
 ];
 
-var other = [
+var shirts = [
 
 		{
 			"name": "reggae bloodlines shirt",
@@ -175,25 +175,26 @@ var other = [
 			"name": "oggg shirt",
 			"id": "oggg-shirt",
 			"imgSrc":"http://www.kgnu.org/images/img-f14/gift-oggg-shirt.jpg",
-			"imgOver":"http://www.kgnu.org/images/img-f14/gift-oggg-shirt-over.gif",
+			"imgOver": "http://www.kgnu.org/images/img-f14/gift-oggg-shirt-over.gif",
 			"link": "http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1363187333"
 		}
 	];
+];
 
 
 var misc = {
 	"gift": [
 		{
 			"name": "",
-			"imgSrc":"http://placehold.it/200x200",
-			"imgOver": "http://placehold.it/200x200?text=RollOver",
+			"imgSrc":"",
+			"imgOver": "",
 			"link": ""
 		},
 
 		{
 			"name": "",
-			"imgSrc":"http://placehold.it/200x200",
-			"imgOver": "http://placehold.it/200x200?text=RollOver",
+			"imgSrc":"",
+			"imgOver": "",
 			"link": ""
 		}
 	]
@@ -261,7 +262,7 @@ function swap(gift) {
 
 $(document).ready(function () {
 	buildGifts(tix, "#tix");
-	//buildGifts(cds, "#cds");
+	buildGifts(cds, "#cds");
 	buildGifts(other, "#other");
 	console.log("Support Independent Community Radio with your donation now at www.kgnu.org!");
 
@@ -270,8 +271,8 @@ $(document).ready(function () {
 
 // "name": "Avett Brothers July 11",
 // "id": "avett-brothers-july11",
-// "imgSrc": "http://placehold.it/200x200""./splash/f15/img/avett-bros-july11.jpg",
-// "imgOver": "http://placehold.it/200x200?texRollOver" "./splash/f15/img/avett-bros-july11-over.jpg",
+// "imgSrc": "./splash/f15/img/avett-bros-july11.jpg",
+// "imgOver": "./splash/f15/img/avett-bros-july11-over.jpg",
 // "link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Avett%20Bros%20Tickets%20July11"
 
 // Israel Vibration with Roots Radics 10/20 Fox - $60
@@ -295,47 +296,3 @@ $(document).ready(function () {
 // rebirh
 // Bad Plus
 // should already have: SCI, Greensky
-
-
-// Shirts
-// RADIO WAVES:
-// Women's: M, L, and XL (charcoal)
-// L, XL  (Green and Aqua)
-// XL (Light Blue)
-// Men's:  L, XL (Cobalt Blue)
-// M, L, XL (Beige)
-// XL (Green)
-
-
-// OGGG:
-// Women's: S, M, L, XL (Charcoal)
-// Men's : S, M, L, XL (Charcoal)
-// L (Cobalt Blue)
-// 2XL (Red)
-
-
-// HONKY TONK:
-// Women's: 2X (Red)
-// 2X (Brown)
-// Men's: L, XL, (Red)
-// M (Black)
-// M, L, XL (Brown)
-
-// NEWS:
-// Women's: L, XL (Grey)
-// Men's: M,L,XL (Grey)
-
-// TERRASONIC: Women's: 2X (Navy)
-
-// ROOTS and BRANCHES:
-// Women's: L, 2X
-// Men's:   L, 2X
-
-// DUB PALACE:
-// Women's: M,L,XL
-// Men's:   S,M,XL,2XL
-
-// REGGAE:
-// Women's: M (Charcoal) L, XL (Tax)
-// Men's:  S, M, L, XL,2X (Brown)
-// 2X (Black)
