@@ -5,135 +5,135 @@ var tix = [
 	{
 		"name": "Israel Vibration",
 		"id": "israelvibe-oct20",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/isreal-vibe-oct20.jpg",
+		"imgOver": "splash/f15/img/isreal-vibe-oct20-over.jpg",
 		"amt": "$60",
 		"venue": "Fox Theater",
-		"date": "Oct 15",
-		"link": "http://placehold.it/350x150"
+		"date": "Oct 20",
+		"link": "https://kgnu.org/ht/quickjoin.html?level=60&premium_type=premium_other&premium=Tix-IsraelVibration-Oct20-Fox"
 	},
 
 	{
 		"name": "Israel Vibration",
 		"id": "israelvibe-oct22",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/isreal-vibe-oct22.jpg",
+		"imgOver": "splash/f15/img/isreal-vibe-oct22-over.jpg",
 		"amt": "$60",
 		"venue": "Ogden",
 		"date": "Oct 22",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=60&premium_type=premium_other&premium=Tix-IsraelVibration-Oct22-Ogden"
 	},
 
 	{
 		"name": "Youssou N'Dour",
 		"id": "Youssou",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/youssou-ndour-nov4.jpg",
+		"imgOver": "splash/f15/img/youssou-ndour-nov4-over.jpg",
 		"amt": "$88.5",
 		"venue": "Boulder Theater",
 		"date": "Nov 11",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-YoussouNDour-Nov11-BoulderTheater"
 	},
 
 	{
 		"name": "Travelin' McCourys",
 		"id": "McCourys",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/mcourys-nov5.jpg",
+		"imgOver": "splash/f15/img/mcourys-nov5-over.jpg",
 		"amt": "$60",
 		"venue": "Fox Theater",
 		"date": "Nov 5",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=60&premium_type=premium_other&premium=Tix-TravellingMcCourys-Nov05-FoxTheater"
 	},
 
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov19",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/greensky-Nov19.jpg",
+		"imgOver": "splash/f15/img/greensky-Nov19-over.jpg",
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 19",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-Greensky-Nov19-OgdenTheater"
 	},
 
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov20",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/greensky-Nov20.jpg",
+		"imgOver": "splash/f15/img/greensky-Nov20-over.jpg",
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 20",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-Greensky-Nov20-OgdenTheater"
 	},
 
 	{
 		"name": "Greensky Bluegrass",
 		"id": "Greensky-Nov21",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/greensky-Nov21.jpg",
+		"imgOver": "splash/f15/img/greensky-Nov21-over.jpg",
 		"amt": "$88.5",
 		"venue": "Ogden Theater",
 		"date": "Nov 21",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-Greensky-Nov21-OgdenTheater"
 	},
 
 
 	{
 		"name": "Bad Plus with Joshua Redman",
 		"id": "josh-redman",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
+		"imgSrc": "splash/f15/img/bad-plus-dec12.jpg",
+		"imgOver": "splash/f15/img/bad-plus-dec12-over.jpg",
 		"amt": "$88.5",
 		"venue": "Boulder Theater",
 		"date": "Dec 12",
-		"link": "http://placehold.it/350x150"
+		"link": "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-BadPlus-Dec12-BoulderTheater"
 	},
 
 
 	{
 		"name": "Rebirth Brass Band",
 		"id": "Rebirth",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
-		"amt": "$88.5",
-		"venue": "Gothic Theater",
-		"date": "Dec 12",
-		"link": "http://placehold.it/350x150"
+		"imgSrc": "splash/f15/img/rebirth-dec12.jpg",
+		"imgOver": "splash/f15/img/rebirth-dec12-over.jpg",
+		"amt": "88.5",
+		"venue": "GothicTheater",
+		"date": "Dec12",
+		"link":  "https://kgnu.org/ht/quickjoin.html?level=88.5&premium_type=premium_other&premium=Tix-RebirthBrassBand-Dec12-GothicTheater"
 	},
 
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-dec31",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
-		"amt": "$139",
+		"imgSrc": "splash/f15/img/sci-dec31.jpg",
+		"imgOver": "splash/f15/img/sci-dec31-over.jpg",
+		"amt": "$200",
 		"venue": "1st Bank Center",
-		"date": "Dec 31",
-		"link": "http://placehold.it/350x150"
+		"date": "Dec31",
+		"link": "https://kgnu.org/ht/quickjoin.html?level=200&premium_type=premium_other&premium=Tix-StringCheeseIncident-Dec31-1stBank"
 	},
 
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-jan1",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
-		"amt": "$139",
+		"imgSrc": "splash/f15/img/sci-jan1.jpg",
+		"imgOver": "splash/f15/img/sci-jan1-over.jpg",
+		"amt": "$200",
 		"venue": "1st Bank Center",
-		"date": "Jan 31",
-		"link": "http://placehold.it/350x150"
+		"date": "Jan01",
+		"link": "https://kgnu.org/ht/quickjoin.html?level=200&premium_type=premium_other&premium=Tix-StringCheeseIncident-Jan01-1stBank"
 	},
 
 	{
 		"name": "String Cheese Incident",
 		"id": "sci-jan2",
-		"imgSrc": "http://placehold.it/200x200",
-		"imgOver": "http://placehold.it/200x200?text=RollOver",
-		"amt": "$139",
+		"imgSrc": "splash/f15/img/sci-jan2.jpg",
+		"imgOver": "splash/f15/img/sci-jan2-over.jpg",
+		"amt": "$200",
 		"venue": "1st Bank Center",
-		"date": "Jan 2",
-		"link": "http://placehold.it/350x150"
+		"date": "Jan02",
+		"link": "https://kgnu.org/ht/quickjoin.html?level=200&premium_type=premium_other&premium=Tix-StringCheeseIncident-Jan02-1stBank"
 	}
 ];
 
@@ -177,6 +177,22 @@ var other = [
 			"imgSrc":"http://www.kgnu.org/images/img-f14/gift-oggg-shirt.jpg",
 			"imgOver":"http://www.kgnu.org/images/img-f14/gift-oggg-shirt-over.gif",
 			"link": "http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1363187333"
+		},
+
+		{
+			"name": "root-branches shirt",
+			"id": "roots-shirt",
+			"imgSrc":"./splash/f15/img/gift-roots-branches.jpg",
+			"imgOver":"./splash/f15/img/gift-roots-branches-over.jpg",
+			"link": "http://kgnu.org/cgi-bin/moreinfo.py?Notice=1394581787"
+		},
+
+		{
+			"name": "dub-palace shirt",
+			"id": "dub-palace",
+			"imgSrc":"./splash/f15/img/gift-dub-palace.jpg",
+			"imgOver":"./splash/f15/img/gift-dub-palace-over.jpg",
+			"link": "http://kgnu.org/cgi-bin/moreinfo.py?Notice=1394582310"
 		}
 	];
 
@@ -185,15 +201,15 @@ var misc = {
 	"gift": [
 		{
 			"name": "",
-			"imgSrc":"http://placehold.it/200x200",
-			"imgOver": "http://placehold.it/200x200?text=RollOver",
+			"imgSrc":"splash/f15/img/img.foo.jpg",
+			"imgOver": "splash/f15/img/img.foo.jpg",
 			"link": ""
 		},
 
 		{
 			"name": "",
-			"imgSrc":"http://placehold.it/200x200",
-			"imgOver": "http://placehold.it/200x200?text=RollOver",
+			"imgSrc":"splash/f15/img/img.foo.jpg",
+			"imgOver": "splash/f15/img/img.foo.jpg",
 			"link": ""
 		}
 	]
@@ -211,6 +227,7 @@ function buildGifts(gifts, id) {
 
 		var img = '<img class="gift-img" src="' + gift.imgSrc + '" id="'+ gift.id +'" >';
 		var html = '<a href="' + gift.link + '">' + img + '</a>';
+		var cssText = '';
 
 		elem = document.createElement('li');
 		elem.innerHTML = html;
@@ -270,8 +287,8 @@ $(document).ready(function () {
 
 // "name": "Avett Brothers July 11",
 // "id": "avett-brothers-july11",
-// "imgSrc": "http://placehold.it/200x200""./splash/f15/img/avett-bros-july11.jpg",
-// "imgOver": "http://placehold.it/200x200?texRollOver" "./splash/f15/img/avett-bros-july11-over.jpg",
+// "imgSrc": "splash/f15/img/img.foo.jpg""./splash/f15/img/avett-bros-july11.jpg",
+// "imgOver": "splash/f15/img/img.foo.jpg?texRollOver" "./splash/f15/img/avett-bros-july11-over.jpg",
 // "link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Avett%20Bros%20Tickets%20July11"
 
 // Israel Vibration with Roots Radics 10/20 Fox - $60
@@ -283,21 +300,22 @@ $(document).ready(function () {
 // Greensky Bluegrass 11/21 Ogden - $88.50
 // Bad Plus with Joshua Redman 12/2 Boulder Thtr - $88.50
 // Rebirth Brass Band Gothic 12/12 - $88.50
-// String Cheese Incident 12/31 1st Bank Center - $139
-// String Cheese Incident 1/1 1st Bank Center - $139
-// String Cheese Incident 1/2 1st Bank Center - $139
+// String Cheese Incident 12/31 1st Bank Center - $200
+// String Cheese Incident 1/1 1st Bank Center - $200
+// String Cheese Incident 1/2 1st Bank Center - $200
 
 
 // images to do:
-// israel vibe
-// mcourys
-// youssou
-// rebirh
+// Israel vibe
+// Mcourys
+// Youssou
+// Rebirth
 // Bad Plus
 // should already have: SCI, Greensky
 
 
-// Shirts
+// **** Shirts ****
+
 // RADIO WAVES:
 // Women's: M, L, and XL (charcoal)
 // L, XL  (Green and Aqua)
