@@ -21,3 +21,6 @@ public_html/splash/f15/js/jquery-2.1.3.min.js
 
 
 todo: clean up unused css & js files...
+
+change root of these images used in the template - mostly background and static banners.
+http://www.kgnu.org/images/img-f14/*
